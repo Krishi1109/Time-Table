@@ -1,0 +1,13 @@
+.scorll_middle{
+  height: 363px;
+  overflow-y: scroll;
+}
+
+.sizeclass{
+  height: 306px;
+  border-bottom: 1rem;
+}
+
+.all{
+  background-color:#f4f4f7;
+}
